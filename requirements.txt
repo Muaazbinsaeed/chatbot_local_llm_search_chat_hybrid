@@ -1,0 +1,18 @@
+fastapi[all]
+uvicorn
+ollama                      # Ollama Python SDK/wrapper
+duckduckgo-search           # DDGS search
+requests
+beautifulsoup4
+transformers                # HuggingFace pipelines
+torch                       # backend for transformers
+streamlit
+newspaper3k 
+lxml_html_clean
+serpapi
+transformers
+tensorflow
+tf_keras
+langchain
+langchain-ollama
+langchain-community
