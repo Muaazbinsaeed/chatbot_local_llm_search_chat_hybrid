@@ -22,25 +22,47 @@ The UI is built with **Streamlit** and the backend API with **FastAPI**. Everyth
 * **Tabbed UX**: Reasoning, Original vs Augmented answer, and list of clickable sources
 * **Single‑file client & server** – easy to read, fork and hack
 
-## 🎥 Live Demo
+## 🎥 Live Demo   <span style="font-size:0.8em;">by @muaazbinsaeed</span>
 
-<div align="center">
+<div align="center" style="max-width:2080px;margin:auto">
 
-<!-- adjust width to taste (e.g. 800, 900…) -->
-<img src="assets/p1.gif" width="760"><br>
-<strong>Swagger Docs</strong><br><br>
+<h4>Swagger Docs</h4>
+<img src="assets/p1.gif" width="2080">
 
-<img src="assets/p2.gif" width="760"><br>
-<strong>LLM mode</strong><br><br>
+<h4>LLM mode</h4>
+<img src="assets/p2.gif" width="2080">
 
-<img src="assets/p3.gif" width="760"><br>
-<strong>Internet Search</strong><br><br>
+<h4>Internet Search</h4>
+<img src="assets/p3.gif" width="2080">
 
-<img src="assets/p4.gif" width="760"><br>
-<strong>Hybrid (LLM + Search)</strong>
+<h4>Hybrid (LLM + Search)</h4>
+<img src="assets/p4.gif" width="2080">
 
+<p><em>© @muaazbinsaeed — feel free to fork 🎉</em></p>
 </div>
 
+---
+
+### 📸 Sample Outputs   <span style="font-size:0.8em;">by @muaazbinsaeed</span>
+
+<div align="center" style="max-width:2080px;margin:auto">
+
+<h4>Prompt · “Tell me about <em>myself</em>”</h4>
+
+<img src="assets/pic_LLM%20about%20myself.png"      width="2080"><br>
+<img src="assets/pic_search%20about%20myself.png"   width="2080"><br>
+<img src="assets/pic_LLM%26Search%20about%20myself.png" width="2080">
+
+<hr style="margin:40px 0;">
+
+<h4>Prompt · “Tell me about <em>&lt;any topic&gt;</em>”</h4>
+
+<img src="assets/pic_LLM%20about%20topic.png"        width="2080"><br>
+<img src="assets/pic_search%20about%20topic.png"     width="2080"><br>
+<img src="assets/pic_LLM%26search%20about%20topic.png"  width="2080">
+
+<p><em>© @muaazbinsaeed — screenshots generated locally</em></p>
+</div>
 
 
 
@@ -157,22 +179,6 @@ git commit -m "Initial commit – hybrid local LLM chatbot"
 git remote add origin git@github.com:muaazbinsaeed/chatbot_local_llm_search_chat_hybrid.git
 git push -u origin main
 ```
-
-### 📸 Sample Outputs
-
-**Prompt → “Tell me about *myself*”**
-
-| LLM | Search | Hybrid |
-|-----|--------|--------|
-| ![LLM-about-myself](assets/pic_LLM%20about%20myself.png) | ![Search-about-myself](assets/pic_search%20about%20myself.png) | ![Hybrid-about-myself](assets/pic_LLM%26Search%20about%20myself.png) |
-
----
-
-**Prompt → “Tell me about *Quantum Computing*”**
-
-| LLM | Search | Hybrid |
-|-----|--------|--------|
-| ![LLM-about-topic](assets/pic_LLM%20about%20topic.png) | ![Search-about-topic](assets/pic_search%20about%20topic.png) | ![Hybrid-about-topic](assets/pic_LLM%26search%20about%20topic.png) |
 
 
 Happy hacking! 🎉
