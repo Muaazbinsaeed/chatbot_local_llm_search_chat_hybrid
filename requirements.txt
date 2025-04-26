@@ -16,3 +16,4 @@ tf_keras
 langchain
 langchain-ollama
 langchain-community
+watchdog
