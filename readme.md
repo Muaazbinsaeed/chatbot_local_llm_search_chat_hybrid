@@ -26,22 +26,18 @@ The UI is built with **Streamlit** and the backend API with **FastAPI**. Everyth
 
 <div align="center">
 
-<table>
-<tr>
-  <td align="center"><strong>Swagger Docs</strong><br>
-    <img src="assets/p1.gif" width="1080">
-  </td>
-  <td align="center"><strong>LLM mode</strong><br>
-    <img src="assets/p2.gif" width="1080">
-  </td>
-  <td align="center"><strong>Internet Search</strong><br>
-    <img src="assets/p3.gif" width="1080">
-  </td>
-  <td align="center"><strong>Hybrid</strong><br>
-    <img src="assets/p4.gif" width="1080">
-  </td>
-</tr>
-</table>
+<!-- adjust width to taste (e.g. 800, 900…) -->
+<img src="assets/p1.gif" width="760"><br>
+<strong>Swagger Docs</strong><br><br>
+
+<img src="assets/p2.gif" width="760"><br>
+<strong>LLM mode</strong><br><br>
+
+<img src="assets/p3.gif" width="760"><br>
+<strong>Internet Search</strong><br><br>
+
+<img src="assets/p4.gif" width="760"><br>
+<strong>Hybrid (LLM + Search)</strong>
 
 </div>
 
