@@ -24,9 +24,26 @@ The UI is built with **Streamlit** and the backend API with **FastAPI**. Everyth
 
 ## 🎥 Live Demo
 
-| Swagger Docs | LLM mode | Internet Search | Hybrid (LLM + Search) |
-|--------------|----------|-----------------|-----------------------|
-| ![Swagger Docs](assets/p1.gif) | ![LLM mode](assets/p2.gif) | ![Internet Search](assets/p3.gif) | ![Hybrid](assets/p4.gif) |
+<div align="center">
+
+<table>
+<tr>
+  <td align="center"><strong>Swagger Docs</strong><br>
+    <img src="assets/p1.gif" width="420">
+  </td>
+  <td align="center"><strong>LLM mode</strong><br>
+    <img src="assets/p2.gif" width="420">
+  </td>
+  <td align="center"><strong>Internet Search</strong><br>
+    <img src="assets/p3.gif" width="420">
+  </td>
+  <td align="center"><strong>Hybrid</strong><br>
+    <img src="assets/p4.gif" width="420">
+  </td>
+</tr>
+</table>
+
+</div>
 
 
 
@@ -155,7 +172,7 @@ git push -u origin main
 
 ---
 
-**Prompt → “Tell me about *<any topic>*”**
+**Prompt → “Tell me about *Quantum Computing*”**
 
 | LLM | Search | Hybrid |
 |-----|--------|--------|
