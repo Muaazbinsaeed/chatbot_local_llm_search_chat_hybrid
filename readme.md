@@ -29,16 +29,16 @@ The UI is built with **Streamlit** and the backend API with **FastAPI**. Everyth
 <table>
 <tr>
   <td align="center"><strong>Swagger Docs</strong><br>
-    <img src="assets/p1.gif" width="420">
+    <img src="assets/p1.gif" width="2080">
   </td>
   <td align="center"><strong>LLM mode</strong><br>
-    <img src="assets/p2.gif" width="420">
+    <img src="assets/p2.gif" width="2080">
   </td>
   <td align="center"><strong>Internet Search</strong><br>
-    <img src="assets/p3.gif" width="420">
+    <img src="assets/p3.gif" width="2080">
   </td>
   <td align="center"><strong>Hybrid</strong><br>
-    <img src="assets/p4.gif" width="420">
+    <img src="assets/p4.gif" width="2080">
   </td>
 </tr>
 </table>
