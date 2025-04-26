@@ -55,7 +55,7 @@ The UI is built with **Streamlit** and the backend API with **FastAPI**. Everyth
 
 <hr style="margin:40px 0;">
 
-<h4>Prompt · “Tell me about <em>&lt;any topic&gt;</em>”</h4>
+<h4>Prompt · “Tell me about <em>&lt;Quantum Computing&gt;</em>”</h4>
 
 <img src="assets/pic_LLM%20about%20topic.png"        width="2080"><br>
 <img src="assets/pic_search%20about%20topic.png"     width="2080"><br>
